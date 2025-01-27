@@ -1,1 +1,1 @@
-# Loan-Status-Prediction
+mini ML projects
